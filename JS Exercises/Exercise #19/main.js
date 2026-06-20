@@ -3,3 +3,5 @@ number.forEach(number =>{
     console.log("Number " + number);
     
 })
+
+
